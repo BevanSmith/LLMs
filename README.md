@@ -6,3 +6,4 @@ Also, my code didn't work on the latest Streamlit version (1.31.0 I think).  So 
 
 Other issues I found with other HuggingFace open source embedding models was xthat some were limited to only a few input tokens when inputting the question.  So the current model I have seems to solve that issue.
 
+This project shows the use of LLMs, Embedding Models, Streamlit and VS Code.
